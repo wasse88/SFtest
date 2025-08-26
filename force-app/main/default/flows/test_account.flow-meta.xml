@@ -32,7 +32,7 @@
         <inputAssignments>
             <field>Description</field>
             <value>
-                <stringValue>test</stringValue>
+                <stringValue>1231</stringValue>
             </value>
         </inputAssignments>
         <inputReference>$Record</inputReference>
